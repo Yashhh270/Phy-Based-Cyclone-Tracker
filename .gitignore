@@ -1,0 +1,7 @@
+era5_local/
+*.nc
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
